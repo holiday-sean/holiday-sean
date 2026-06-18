@@ -1,16 +1,21 @@
 ## Hi there 👋
 
-<!--
-**holiday-sean/holiday-sean** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm Sean, an aspiring data analyst/scientist based in Vancouver.
 
-Here are some ideas to get you started:
+I mainly work with Python and R, and I'm currently exploring visualization tools like Tableau and Power BI.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+This repo is where I build and share projects applying analytics and machine learning to things I find interesting in everyday life — currently working on energy consumption forecasting for campus buildings.
+
+## Tools & Tech
+
+* **Languages:** Python, R, PostgreSQL
+* **Visualization:** Tableau, Power BI
+* **DevOps & Tools:** Docker, Git/GitHub, REST APIs
+
+## A bit about me
+
+I graduated in May 2026 from the University of British Columbia with a major in Cognitive Systems — an interdisciplinary field focused on the design and study of intelligent systems.
+
+I was born and raised in Singapore — feel free to reach out!
+
+Outside of data, I love playing tennis and collecting Pokémon cards. 🎾🃏
